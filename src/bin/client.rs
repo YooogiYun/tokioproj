@@ -95,12 +95,6 @@ async fn main() {
     t2.await.unwrap();
 
     manager.await.unwrap();
-
-    // while let Some(msg) = rx.recv().await {
-    //     println!("GOT: {}", msg);
-    // }
-
-    // ... rest comes here
 }
 
 // #[tokio::main]
