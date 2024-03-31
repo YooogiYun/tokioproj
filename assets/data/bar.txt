@@ -1,0 +1,3 @@
+I'm the writer who writes bytes into a file.
+I'm the second writer who writes bytes into a file.
+I'm the third writer who writes bytes into a file by the method of Copying.

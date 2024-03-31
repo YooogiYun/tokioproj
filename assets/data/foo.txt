@@ -1,0 +1,4 @@
+foo - hello world! 
+I'm the content in the foo.txt
+
+I'm the fourth line.
